@@ -1,3 +1,7 @@
+build/*
+# coverage files
+*.profdata
+*.profraw
 # Prerequisites
 *.d
 
